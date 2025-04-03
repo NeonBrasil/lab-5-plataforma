@@ -6,11 +6,20 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
+    path: Assets/Scenes/Tela De Inicio.unity
+    guid: ac14c425e5831684d8d54da5ecb32d86
+  - enabled: 1
     path: Assets/Scenes/Fase 1.unity
     guid: 6995d826509374a40b914107306e9dfe
   - enabled: 1
+    path: Assets/Scenes/Fase 2.unity
+    guid: c7aef82ebbaa68245ada95972dd4765f
+  - enabled: 1
     path: Assets/Scenes/Tela De Morte.unity
     guid: 8c9cfa26abfee488c85f1582747f6a02
+  - enabled: 1
+    path: Assets/Scenes/Fim.unity
+    guid: ed53b815c3583f745a14576a8666cd0f
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
   m_UseUCBPForAssetBundles: 0

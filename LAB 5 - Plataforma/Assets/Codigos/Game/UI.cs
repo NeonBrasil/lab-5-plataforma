@@ -7,20 +7,21 @@ public class UI : MonoBehaviour
     private TextMeshProUGUI livesText;
     private TextMeshProUGUI pontosText;
 
+    private int pontosNecessarios = 7; // Quantidade necessária para passar de fase
+
     void Start()
     {
-        // Buscar o LivesText quando a cena iniciar
+        // Buscar os textos na UI
         livesText = GameObject.Find("VidasText").GetComponent<TextMeshProUGUI>();
         pontosText = GameObject.Find("PontosText").GetComponent<TextMeshProUGUI>();
 
-        // Inscrever-se para ser notificado quando a cena for carregada
+        // Inscrever-se para atualizar os textos quando a cena for carregada
         SceneManager.sceneLoaded += OnSceneLoaded;
     }
 
-    // A função OnSceneLoaded será chamada sempre que uma cena for carregada
     void OnSceneLoaded(Scene scene, LoadSceneMode mode)
     {
-        // Re-atualizar o LivesText sempre que uma nova cena for carregada
+        // Reatualizar os textos ao carregar uma nova cena
         livesText = GameObject.Find("VidasText").GetComponent<TextMeshProUGUI>();
         pontosText = GameObject.Find("PontosText").GetComponent<TextMeshProUGUI>();
     }
@@ -34,10 +35,10 @@ public class UI : MonoBehaviour
 
         if (pontosText != null)
         {
-            pontosText.text = Game_Manager.instance.pontos.ToString(); // Mostrar pontos corretamente
+            pontosText.text = $"{Game_Manager.instance.pontos}/{pontosNecessarios}"; // Exibe "Pontos/PontosNecessários"
         }
 
-        // Se livesText ou pontosText forem nulos, exiba um log
+        // Logs para debug caso os textos não sejam encontrados
         if (livesText == null)
         {
             Debug.Log("LivesText não encontrado.");
@@ -49,7 +50,6 @@ public class UI : MonoBehaviour
         }
     }
 
-    // Desinscrever-se da função quando o objeto for destruído (para evitar vazamentos de memória)
     void OnDestroy()
     {
         SceneManager.sceneLoaded -= OnSceneLoaded;

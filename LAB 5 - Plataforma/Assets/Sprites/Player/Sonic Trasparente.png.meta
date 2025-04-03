@@ -1,0 +1,702 @@
+fileFormatVersion: 2
+guid: 7ae1f9e01a126c24bb3161bfe86c6514
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1626650985841409610
+    second: Sonic Trasparente_0
+  - first:
+      213: 9014998786496496454
+    second: Sonic Trasparente_1
+  - first:
+      213: 1061828970567913547
+    second: Sonic Trasparente_2
+  - first:
+      213: -3690332218199480746
+    second: Sonic Trasparente_3
+  - first:
+      213: -5534726295770446341
+    second: Sonic Trasparente_4
+  - first:
+      213: 1974869539863284127
+    second: Sonic Trasparente_5
+  - first:
+      213: 9174851198284351627
+    second: Sonic Trasparente_6
+  - first:
+      213: 2706003097327730622
+    second: Sonic Trasparente_7
+  - first:
+      213: 8028189218991036131
+    second: Sonic Trasparente_8
+  - first:
+      213: -935090717305035512
+    second: Sonic Trasparente_9
+  - first:
+      213: 3494679039276485577
+    second: Sonic Trasparente_10
+  - first:
+      213: -386674022130292890
+    second: Sonic Trasparente_11
+  - first:
+      213: -7777129195847820199
+    second: Sonic Trasparente_12
+  - first:
+      213: -966477042028624223
+    second: Sonic Trasparente_13
+  - first:
+      213: 6492753847120635427
+    second: Sonic Trasparente_14
+  - first:
+      213: 3737284163467121088
+    second: Sonic Trasparente_15
+  - first:
+      213: -6339183855204656979
+    second: Sonic Trasparente_16
+  - first:
+      213: 3438572809418443488
+    second: Sonic Trasparente_17
+  - first:
+      213: -8951437031006542145
+    second: Sonic Trasparente_18
+  - first:
+      213: 2909729679804240755
+    second: Sonic Trasparente_19
+  - first:
+      213: -767923425538515807
+    second: Sonic Trasparente_20
+  - first:
+      213: 6208648141975741898
+    second: Sonic Trasparente_21
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Sonic Trasparente_0
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 1484
+        width: 29
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52fc8dbafc698eb43b406538524fb123
+      internalID: 662388612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sonic Trasparente_1
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 1485
+        width: 30
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f509dc7ef6e868478532d8fe01fb896
+      internalID: -2040698118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sonic Trasparente_2
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 1485
+        width: 30
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8349f27c44db8946986c1eb27113707
+      internalID: -455702852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sonic Trasparente_3
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 1485
+        width: 30
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3d8b6909dd928f4e8046ecff2eaa81f
+      internalID: 607127375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sonic Trasparente_4
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 1485
+        width: 29
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4c512bfd999b22408c0e214b13cf127
+      internalID: -2095012750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sonic Trasparente_5
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 1486
+        width: 29
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fd2aa3facc05c542946369021ddb46c
+      internalID: 323765697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sonic Trasparente_6
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 1487
+        width: 29
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f1fc7a370b99bb4a84b760bc7b1345e
+      internalID: -804565748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sonic Trasparente_7
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 1485
+        width: 34
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65d94c5e2591e3e4e8695b7ed585ef2c
+      internalID: 2028462775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sonic Trasparente_8
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 1436
+        width: 24
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e748dac7a58d30b458f70ddb289a260a
+      internalID: 1287368439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sonic Trasparente_9
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 1437
+        width: 36
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f53ef4748322c349bdb430043b973de
+      internalID: 741453233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sonic Trasparente_10
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 1436
+        width: 29
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb15a40e855f7df4e93490e174d2dda3
+      internalID: -633843499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sonic Trasparente_11
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 1436
+        width: 27
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cccf75cbcee66a54f8222d0401a5fba7
+      internalID: 1431923427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sonic Trasparente_12
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 1435
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75507edba8709c645bcd7178f7d87206
+      internalID: 1560108423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sonic Trasparente_13
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 1436
+        width: 32
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2396ddd099e5a0e43b3c8066ba3cbdf3
+      internalID: -889384353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sonic Trasparente_14
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 1394
+        width: 31
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d301c62714e235d4f93d6a6b25c4cd0c
+      internalID: -1126869783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sonic Trasparente_15
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 1393
+        width: 31
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c6f690afb0606c4d9646dc41181d155
+      internalID: 1084369009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sonic Trasparente_16
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 1393
+        width: 30
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92864a5b32ab49041a3f1b360b01c8e7
+      internalID: 716252707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sonic Trasparente_17
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 1394
+        width: 31
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ee55d5468c55674b9b0f9c1a8be1e56
+      internalID: -147391557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sonic Trasparente_18
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 1350
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 331aaa2c7380c6c40b99c46f07689195
+      internalID: 249442976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sonic Trasparente_19
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 1351
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33e14c1b6f49d49479a507499e38f45d
+      internalID: -1818781733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sonic Trasparente_20
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 1351
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88a523c0bcaf5f34fb3e10e1fe559c51
+      internalID: 1836910199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sonic Trasparente_21
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 1350
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e68a08de4e6e9f0408a25c9b05b83d8e
+      internalID: 1819390866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 1533326a141cf0e4096b55e610ca84ef
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Sonic Trasparente_0: 662388612
+      Sonic Trasparente_1: -2040698118
+      Sonic Trasparente_10: -633843499
+      Sonic Trasparente_11: 1431923427
+      Sonic Trasparente_12: 1560108423
+      Sonic Trasparente_13: -889384353
+      Sonic Trasparente_14: -1126869783
+      Sonic Trasparente_15: 1084369009
+      Sonic Trasparente_16: 716252707
+      Sonic Trasparente_17: -147391557
+      Sonic Trasparente_18: 249442976
+      Sonic Trasparente_19: -1818781733
+      Sonic Trasparente_2: -455702852
+      Sonic Trasparente_20: 1836910199
+      Sonic Trasparente_21: 1819390866
+      Sonic Trasparente_3: 607127375
+      Sonic Trasparente_4: -2095012750
+      Sonic Trasparente_5: 323765697
+      Sonic Trasparente_6: -804565748
+      Sonic Trasparente_7: 2028462775
+      Sonic Trasparente_8: 1287368439
+      Sonic Trasparente_9: 741453233
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
